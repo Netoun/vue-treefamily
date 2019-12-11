@@ -1,0 +1,75 @@
+{
+  "name": "Example",
+  "tree": {
+    "type": "married",
+    "origin": "Fred Example",
+    "partner": "Anne Example",
+    "size": 5731,
+    "children": [
+      {
+        "type": "married",
+        "origin": "Yasin Example",
+        "partner": "Megan Example",
+        "size": 5731,
+        "children": [
+          {
+            "type": "couple",
+            "origin": "Rachel Example",
+            "partner": "Alexander Example",
+            "size": 5731,
+            "children": [
+              {
+                "type": "solo",
+                "origin": "Clemence Example",
+                "size": 5731
+              }
+            ]
+          },
+          {
+            "type": "couple",
+            "origin": "Albert Example",
+            "partner": "Laura Example",
+            "size": 5731
+          }
+        ]
+      },
+      {
+        "type": "married",
+        "origin": "Travis Example",
+        "partner": "Mia Example",
+        "size": 5731,
+        "children": [
+          {
+            "type": "solo",
+            "origin": "James Example",
+            "size": 5731
+          },
+          {
+            "type": "solo",
+            "origin": "Maria Example"
+          }
+        ]
+      },
+      {
+        "type": "married",
+        "origin": "Harold Example",
+        "partner": "Emily Example",
+        "children": [
+          {
+            "type": "solo",
+            "origin": "Anna Example"
+          },
+          {
+            "type": "couple",
+            "origin": "Emma Example",
+            "partner": "John Example"
+          },
+          {
+            "type": "solo",
+            "origin": "Bran Example"
+          }
+        ]
+      }
+    ]
+  }
+}
