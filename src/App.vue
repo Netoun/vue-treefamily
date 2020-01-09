@@ -10,11 +10,14 @@
         <img class="corner-right" :src="corner" />
       </div>
     </div>
-    <Home />
+
+    <h1 :data-heading="name" class="title"> Famille {{ name }}</h1>
+    <Home :tree="this.tree" />
   </div>
 </template>
 
 <script>
+import familyJSON from './data/longFamily.json'
 import Home from './components/Home.vue'
 import corner from './assets/corner.png'
 
@@ -27,7 +30,10 @@ export default {
     return {
       corner
     }
-  }
+  },
+  created() {
+    [this.name, this.tree] = Object.values(familyJSON)
+  },
 }
 </script>
 
@@ -51,7 +57,7 @@ body {
 
 .corner {
   img {
-    width: 80px;
+    width: 4rem;
     position: absolute;
   }
 

@@ -1,0 +1,223 @@
+{
+  "name": "Example",
+  "tree": {
+    "type": "married",
+    "origin": "Fred Example",
+    "partner": "Anne Example",
+    "picture_origin": "profile.png",
+    "picture_partner": "profile.png",
+    "size": 5731,
+    "children": [
+      {
+        "type": "married",
+        "origin": "Yasin Example",
+        "partner": "Megan Example",
+        "picture_origin": "profile.png",
+        "picture_partner": "profile.png",
+        "size": 5731,
+        "children": [
+          {
+            "type": "couple",
+            "origin": "Rachel Example",
+            "partner": "Alexander Example",
+            "picture_origin": "profile.png",
+            "picture_partner": "profile.png",
+            "size": 5731
+          },
+          {
+            "type": "couple",
+            "origin": "Albert Example",
+            "partner": "Laura Example",
+            "picture_origin": "profile.png",
+            "picture_partner": "profile.png",
+            "size": 5731
+          }
+        ]
+      },
+      {
+        "type": "married",
+        "origin": "Travis Example",
+        "partner": "Mia Example",
+        "picture_origin": "profile.png",
+        "picture_partner": "profile.png",
+        "size": 5731,
+        "children": [
+          {
+            "type": "solo",
+            "origin": "James Example",
+            "picture_origin": "profile.png",
+            "size": 5731,
+            "children": [
+              {
+                "type": "married",
+                "origin": "Travis Example",
+                "partner": "Mia Example",
+                "picture_origin": "profile.png",
+                "picture_partner": "profile.png",
+                "size": 5731,
+                "children": [
+                  {
+                    "type": "solo",
+                    "origin": "James Example",
+                    "picture_origin": "profile.png",
+                    "size": 5731
+                  },
+                  {
+                    "type": "couple",
+                    "origin": "Yolo Example",
+                    "partner": "Yalo Example",
+                    "picture_origin": "profile.png",
+                    "picture_partner": "profile.png"
+                  },
+                  {
+                    "type": "solo",
+                    "origin": "Edgar Example",
+                    "picture_origin": "profile.png"
+                  }
+                ]
+              },
+              {
+                "type": "married",
+                "origin": "Harold Example",
+                "partner": "Emily Example",
+                "children": [
+                  {
+                    "type": "solo",
+                    "origin": "Anna Example",
+                    "picture_origin": "profile.png"
+                  },
+                  {
+                    "type": "solo",
+                    "origin": "Bran Example",
+                    "picture_origin": "profile.png"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "couple",
+            "origin": "Yolo Example",
+            "partner": "Yalo Example",
+            "picture_origin": "profile.png",
+            "picture_partner": "profile.png",
+            "children": [
+              {
+                "type": "married",
+                "origin": "Travis Example",
+                "partner": "Mia Example",
+                "picture_origin": "profile.png",
+                "picture_partner": "profile.png",
+                "size": 5731,
+                "children": [
+                  {
+                    "type": "solo",
+                    "origin": "James Example",
+                    "picture_origin": "profile.png",
+                    "size": 5731
+                  },
+                  {
+                    "type": "couple",
+                    "origin": "Yolo Example",
+                    "partner": "Yalo Example",
+                    "picture_origin": "profile.png",
+                    "picture_partner": "profile.png"
+                  },
+                  {
+                    "type": "solo",
+                    "origin": "Edgar Example",
+                    "picture_origin": "profile.png"
+                  }
+                ]
+              },
+              {
+                "type": "married",
+                "origin": "Harold Example",
+                "partner": "Emily Example",
+                "children": [
+                  {
+                    "type": "solo",
+                    "origin": "Anna Example",
+                    "picture_origin": "profile.png"
+                  },
+                  {
+                    "type": "solo",
+                    "origin": "Bran Example",
+                    "picture_origin": "profile.png"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "solo",
+            "origin": "Edgar Example",
+            "picture_origin": "profile.png"
+          }
+        ]
+      },
+      {
+        "type": "married",
+        "origin": "Harold Example",
+        "partner": "Emily Example",
+        "children": [
+          {
+            "type": "solo",
+            "origin": "Anna Example",
+            "picture_origin": "profile.png"
+          },
+          {
+            "type": "solo",
+            "origin": "Bran Example",
+            "picture_origin": "profile.png"
+          },
+          {
+            "type": "married",
+            "origin": "Travis Example",
+            "partner": "Mia Example",
+            "picture_origin": "profile.png",
+            "picture_partner": "profile.png",
+            "size": 5731,
+            "children": [
+              {
+                "type": "solo",
+                "origin": "James Example",
+                "picture_origin": "profile.png",
+                "size": 5731
+              },
+              {
+                "type": "couple",
+                "origin": "Yolo Example",
+                "partner": "Yalo Example",
+                "picture_origin": "profile.png",
+                "picture_partner": "profile.png"
+              },
+              {
+                "type": "solo",
+                "origin": "Edgar Example",
+                "picture_origin": "profile.png"
+              }
+            ]
+          },
+          {
+            "type": "married",
+            "origin": "Harold Example",
+            "partner": "Emily Example",
+            "children": [
+              {
+                "type": "solo",
+                "origin": "Anna Example",
+                "picture_origin": "profile.png"
+              },
+              {
+                "type": "solo",
+                "origin": "Bran Example",
+                "picture_origin": "profile.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
